@@ -1,6 +1,6 @@
 # Preklad domenovych mien
 ##### Tema:     klient-server aplikacia
-##### Autor:    Lubos Bever, xvajco00
+##### Autor:    Lubos Bever
 ##### Datum:    08.03.2020
 ##### Predmet:  IPK
 Skript vytvoreny v jazyku Python _(/src/server.py)_ je schopny vytvorit server a cakat na klienta. Klient sa pripoji na server, ktory bezi na konkretnom porte a zasle na server poziadavku _GET_ alebo _POST_. Po vybaveni poziadavky sa server korektne ukonci.
